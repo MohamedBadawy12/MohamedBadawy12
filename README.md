@@ -30,7 +30,7 @@
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bno05GeJrJlBGm14TSgnnlzv9_RBPdNU/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1erv4Svn5uHqZEF_bxOl5WZzQgsvt6k3b/view?usp=sharing).
 <br>
 
 
